@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Great Heroes</string>
+    <string name="salahuddin">Salah ad-Din Yusuf</string>
+    <string name="salahuddin_desc">The Righteousness of Faith</string>
+    <string name="baldwin">King Baldwin the Fourth</string>
+    <string name="baldwin_desc">The Leper King of Jerusalem</string>
+    <string name="genghis">Genghis Khan</string>
+    <string name="genghis_desc">Conqueror Of The World</string>
+    <string name="caesar">Julius Caesar</string>
+    <string name="caesar_desc">Son of Gaius</string>
+    <string name="leonidas">Leonidas I</string>
+    <string name="leonidas_desc">The King of Sparta</string>
+    <string name="miyamoto">Miyamoto Musashi</string>
+    <string name="miyamoto_desc">The Strongest Samurai</string>
+    <string name="barbarossa">The Barbarossa Brothers</string>
+    <string name="barbarossa_desc">The Heroes of Ottoman Empire</string>
+    <string name="alaric">Alaric</string>
+    <string name="alaric_desc">Leader of Visigoths</string>
+</resources>
+
